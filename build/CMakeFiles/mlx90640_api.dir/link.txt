@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmlx90640_api.a CMakeFiles/mlx90640_api.dir/3rdparty/mlx90640/src/MLX90640_API.cpp.o CMakeFiles/mlx90640_api.dir/3rdparty/mlx90640/src/MLX90640_LINUX_I2C_Driver.cpp.o
+/usr/bin/ranlib libmlx90640_api.a

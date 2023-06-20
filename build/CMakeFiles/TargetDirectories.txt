@@ -1,0 +1,4 @@
+/home/electronica/Desktop/Sistema_Alerta_de_Temperatura/build/CMakeFiles/rebuild_cache.dir
+/home/electronica/Desktop/Sistema_Alerta_de_Temperatura/build/CMakeFiles/edit_cache.dir
+/home/electronica/Desktop/Sistema_Alerta_de_Temperatura/build/CMakeFiles/ThermalCamera.dir
+/home/electronica/Desktop/Sistema_Alerta_de_Temperatura/build/CMakeFiles/mlx90640_api.dir

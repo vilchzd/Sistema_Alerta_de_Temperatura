@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/electronica/Desktop/Sistema_Alerta_de_Temperatura/3rdparty/mlx90640/include/MLX90640_API.h
+
+/home/electronica/Desktop/Sistema_Alerta_de_Temperatura/3rdparty/mlx90640/include/MLX90640_I2C_Driver.h
+stdint.h
+-
+
+/home/electronica/Desktop/Sistema_Alerta_de_Temperatura/3rdparty/mlx90640/src/MLX90640_API.cpp
+../include/MLX90640_I2C_Driver.h
+/home/electronica/Desktop/Sistema_Alerta_de_Temperatura/3rdparty/mlx90640/include/MLX90640_I2C_Driver.h
+../include/MLX90640_API.h
+/home/electronica/Desktop/Sistema_Alerta_de_Temperatura/3rdparty/mlx90640/include/MLX90640_API.h
+math.h
+-
+stdio.h
+-
+chrono
+-
+
+/home/electronica/Desktop/Sistema_Alerta_de_Temperatura/3rdparty/mlx90640/src/MLX90640_LINUX_I2C_Driver.cpp
+../include/MLX90640_I2C_Driver.h
+/home/electronica/Desktop/Sistema_Alerta_de_Temperatura/3rdparty/mlx90640/include/MLX90640_I2C_Driver.h
+iostream
+-
+unistd.h
+-
+stdio.h
+-
+fcntl.h
+-
+string.h
+-
+linux/i2c-dev.h
+-
+linux/i2c.h
+-
+sys/ioctl.h
+-
+
