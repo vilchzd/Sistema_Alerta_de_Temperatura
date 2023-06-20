@@ -35,9 +35,9 @@ using namespace TgBot;
 
 #define BUZZER_PIN 18
 //Token de bot de Telegram
-const std::string token = "6027388469:AAF_7dSCFGWbTktK_fWpKhjJeUxLHoPE-Bw";
+const std::string token = "Your token";
 //Chat IDS para recibir alertas
-vector<std::string> chatIds = {"1584228134as", "987654321xy", "246813579zw"};
+vector<std::string> chatIds = {"1584228134as", "987654321xy", "246813579zw"}; //ChatIDS
 
 
 
